@@ -2,7 +2,6 @@
 
 Preview for G-Research branding.
 
-![JazzBand](https://jazzband.co/static/img/badge.svg)
 ![V2](./badges/gr_badge-02.svg)
 ![V3](./badges/gr_badge-03.svg)
 ![V4](./badges/gr_badge-04.svg)
