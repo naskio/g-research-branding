@@ -19,7 +19,7 @@ and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 ## License
 
 The G-Research Brand is licensed under
-the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE).
+the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE.md).
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](./LICENSE)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](./LICENSE.md)
 [![Logo: G-Research](./badge/badge.svg)](https://github.com/G-Research)
