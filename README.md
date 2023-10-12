@@ -8,9 +8,11 @@
 This repository contains the branding assets for [G-Research](https://www.gresearch.com/)
 and [G-Research OSS (Open-Source Software)](https://opensource.gresearch.com/).
 
-## Color Palette
+## Colors
 
-TODO:
+| Preview                                        | Hex Code  | Usage   |
+|------------------------------------------------|-----------|---------|
+| ![Color: Primary](./colors/primary-40ACDC.png) | `#40ACDC` | Primary |
 
 ## License
 
